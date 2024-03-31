@@ -3,6 +3,7 @@
 
 # Preview
 
+##rerequisites
 ### Metamask Required For Creating Campaign and funding to campaign
 
 ## Home Page
@@ -24,7 +25,7 @@
 ![Screenshot 2024-03-31 023402](https://github.com/MananPoojara/Decentralized-CrowdFunding/assets/104253184/5a1f5ad5-6dae-491b-8cde-16f98427511e)
 
 
-# Runnig Project 
+# Running Project 
 ```
 git clone https://github.com/MananPoojara/Decentralized-CrowdFunding
 cd client
