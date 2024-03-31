@@ -32,3 +32,5 @@ cd client
 npm i
 npm run dev
 ```
+
+Link : https://youtu.be/rnQ_VaPImUI
