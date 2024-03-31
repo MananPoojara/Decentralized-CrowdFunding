@@ -6,8 +6,14 @@
 ## Home Page
 ![Screenshot 2024-03-31 023316](https://github.com/MananPoojara/Decentralized-CrowdFunding/assets/104253184/f347ef75-39e4-4baf-b3f4-bace964e9b82)
 
+![Screenshot 2024-03-31 110629](https://github.com/MananPoojara/Decentralized-CrowdFunding/assets/104253184/e4ea033b-d1c9-45a1-ba6d-c81515658026)
+
+
 ## Creating Campaign 
 ![Screenshot 2024-03-31 023329](https://github.com/MananPoojara/Decentralized-CrowdFunding/assets/104253184/c973d47a-f40c-4512-b4b5-ee88525a2130)
+
+![Screenshot 2024-03-31 110702](https://github.com/MananPoojara/Decentralized-CrowdFunding/assets/104253184/9c6f2ce6-60fc-476b-8f77-4252d99c4f42)
+
 
 ## Created Campaign
 ![Screenshot 2024-03-31 023345](https://github.com/MananPoojara/Decentralized-CrowdFunding/assets/104253184/e28daa25-e503-4bf2-9664-72091d8923d1)
