@@ -3,8 +3,8 @@
 
 # Preview
 
-##rerequisites
-### Metamask Required For Creating Campaign and funding to campaign
+## Prerequisites
+- Metamask Required For Creating Campaign and funding to campaign
 
 ## Home Page
 ![Screenshot 2024-03-31 023316](https://github.com/MananPoojara/Decentralized-CrowdFunding/assets/104253184/f347ef75-39e4-4baf-b3f4-bace964e9b82)
